@@ -1,0 +1,1 @@
+A small program to implement best practice for synchronizing channel operations
